@@ -14,8 +14,9 @@ offers 3.43% SLA violations and 3.80% user-experienced accuracy loss with zero s
 GKE optimized scheduler.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/58458b58-c70d-4df0-be2d-af6777a65276" alt="GAIKube">
+  <img src="https://github.com/user-attachments/assets/0c3b5a9c-cec1-4a91-bb1e-45b93ee3848f" alt="GAIKube">
 </p>
+
 
 # License
 BSD-3-Clause. Copyright (c) 2024, Babar Ali. All rights reserved.
