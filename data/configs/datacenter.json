@@ -1,0 +1,78 @@
+{
+    "notes":"Datacenter Generation",
+    "nums": {
+        "num_clusters": 1,
+        "num_hosts": 3,
+        "hosts_per_cluster": 3,
+        "num_containers": 4,
+        "resources": 2,
+        "container_types": 1
+    },
+    "metrics": {
+        "ram":"mb",
+        "cpu":"core"
+    },
+    "container_conf" :
+    {
+        "0":
+        {
+            "memory": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            },
+            "cpu": {
+                "min": 500,
+                "max": 500,
+                "step": 1
+            }
+        },
+        "1":
+        {
+            "memory": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            },
+            "cpu": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            }
+        },
+        "2":
+        {
+            "memory": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            },
+            "cpu": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            }
+        },
+        "3":
+        {
+            "memory": {
+                "min": 1000,
+                "max": 1000,
+                "step": 1
+            },
+            "cpu": {
+                "min": 2000,
+                "max": 2000,
+                "step": 1
+            }
+        }
+    },
+    "contexts": ["gke_resonant-petal-367513_europe-west1-b_cluster-1"],
+    "images": ["babarkhan93/yolotorch-prop:0.3", "babarkhan93/yolostorch-prop:0.3", "babarkhan93/yolomtorch:0.3"],
+    "versions":["yolov5n", "yolov5s", "yolov5m"],
+    "config_path": "~/.kube/config",
+    "datacenter_start_time": 0,
+    "datacenter_end_time": 5000,
+    "num_steps" : 20,
+    "seed": 42
+}

@@ -1,0 +1,4 @@
+%%writefile settings.json
+{
+    "debug": "true"
+}
