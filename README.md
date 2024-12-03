@@ -30,4 +30,4 @@ GKE optimized scheduler.
 
 # License
 BSD-3-Clause. Copyright (c) 2024, Babar Ali. All rights reserved.
-See the [License](https://github.com/BabarAli93/GAIKube/blob/main/LICENSE) file for more details.
+See the [License](https://github.com/BabarAli93/GAIKube/blob/master/LICENSE) file for more details.
