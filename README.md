@@ -17,6 +17,15 @@ GKE optimized scheduler.
   <img src="https://github.com/user-attachments/assets/0c3b5a9c-cec1-4a91-bb1e-45b93ee3848f" alt="GAIKube">
 </p>
 
+# Cite this work
+```bibtex
+@ARTICLE{ali2024gaikube,
+  author={Ali, Babar and Golec, Muhammed and Murugesan, Subramaniam Subramanian and Wu, Huaming and Gill, Sukhpal Singh and Cuadrado, Felix and Uhlig, Steve},
+  journal={IEEE Transactions on Cognitive Communications and Networking}, 
+  title={GAIKube: Generative AI-based Proactive Kubernetes Container Orchestration Framework for Heterogeneous Edge Computing}, 
+  year={2024},
+  pages={1-1},
+  doi={10.1109/TCCN.2024.3508771}}
 
 # License
 BSD-3-Clause. Copyright (c) 2024, Babar Ali. All rights reserved.
