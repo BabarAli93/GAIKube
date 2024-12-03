@@ -26,6 +26,7 @@ GKE optimized scheduler.
   year={2024},
   pages={1-1},
   doi={10.1109/TCCN.2024.3508771}}
+```
 
 # License
 BSD-3-Clause. Copyright (c) 2024, Babar Ali. All rights reserved.
